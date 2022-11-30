@@ -5,10 +5,13 @@ My name is Till. I have over 15 years of experience in building and running web 
 ### 🌱 I’m currently learning
 - Azure (preparation for AZ204 and later AZ400)
 - GitHub
+- Life :D
 
 ### 📫 How to reach me: 
+
 - [LinkedIn](https://linkedin.com/in/till-spindler-78207024b)
 - [Blog](https://credly.com/users/till-spindler/badges)
+- [Credly](https://credly.com/users/till-spindler/badges)
 
 
 <!--
