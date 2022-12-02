@@ -10,7 +10,7 @@ My name is Till. I have over 15 years of experience in building and running web 
 ### 📫 How to reach me: 
 
 - [LinkedIn](https://linkedin.com/in/till-spindler-78207024b)
-- [Blog](https://credly.com/users/till-spindler/badges)
+- [Blog](https://blog.spindev.org)
 - [Credly](https://credly.com/users/till-spindler/badges)
 
 
