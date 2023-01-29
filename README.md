@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Till. I have over 15 years of experience in building and running web applications based on Microsoft tech stack. I joined [Xpirit | Part of Xebia](https://xpirit.com) Germany on November 2022 as a DevOps Consultant. 
+My name is Till. I have over 15 years of experience in building and running web applications based on Microsoft tech stack. I joined [Xpirit | Part of Xebia](https://xpirit.com) Germany as a DevOps Consultant on November 2022. 
 
 ### 🌱 I’m currently learning
 - Azure (prepare for AZ400)
