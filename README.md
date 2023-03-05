@@ -14,7 +14,8 @@ My name is Till. I have over 15 years of experience in building and running web 
 - [Credly](https://credly.com/users/till-spindler/badges)
 
 Certifications:
-https://www.credly.com/badges/d9e3026d-986d-4468-85e1-a7021ff15747/public_url
+- Microsoft Certified: DevOps Engineer Expert
+- GitHub Verified Partner: GitHub Actions
 
 <!--
 **spindev/spindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
