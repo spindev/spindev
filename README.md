@@ -14,6 +14,7 @@ My name is Till. I have over 15 years of experience in building and running web 
 - [Credly](https://credly.com/users/till-spindler/badges)
 
 ### 🏅Certifications:
+![](https://images.credly.com/size/150x150/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)
 ![](https://images.credly.com/size/150x150/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)
 ![](https://images.credly.com/size/150x150/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png)
 ![](https://images.credly.com/size/150x150/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png)
