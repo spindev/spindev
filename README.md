@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Till. I have over 15 years of experience in building and running web applications based on Microsoft tech stack. I joined [Xpirit | Part of Xebia](https://xpirit.com) Germany as a DevOps & Agile Coach on November 2022. 
+My name is Till. I have over 15 years of experience in building and running web applications based on Microsoft tech stack. I'
+m part of [eficode](https://eficode.com) Germany as a Principal Consultant for GitHub and Azure.
 
 ### 🌱 I’m currently learning
 - Azure
@@ -28,17 +29,3 @@ My name is Till. I have over 15 years of experience in building and running web 
 ![](https://images.credly.com/size/220x220/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png)
 ![](https://images.credly.com/size/220x220/images/591762c5-fae7-49c6-b326-e1756979928d/image.png)
 
-<!--
-**spindev/spindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
