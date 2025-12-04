@@ -11,7 +11,7 @@ m part of [eficode](https://eficode.com) Germany as a Principal Consultant for G
 ### 📫 How to reach me: 
 
 - [LinkedIn](https://linkedin.com/in/till-spindler-78207024b)
-- [Blog](https://blog.spindev.org)
+- [Blog](https://spindev.net)
 - [Credly](https://credly.com/users/till-spindler/badges)
 
 ### 🏅Certifications:
